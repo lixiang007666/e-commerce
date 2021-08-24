@@ -12,13 +12,29 @@
       </configuration>
     </facet>
     <facet type="Spring" name="Spring">
-      <configuration />
+      <configuration>
+        <fileset id="fileset" name="ApplicationContext Trans115" removed="false">
+          <dependency>fileset3</dependency>
+          <file>file://$MODULE_DIR$/src/main/resources/spring/applicationContext-trans115.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="ApplicationContext Service115" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/applicationContext-service115.xml</file>
+        </fileset>
+        <fileset id="fileset3" name="ApplicationContext Dao115" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/applicationContext-dao115.xml</file>
+        </fileset>
+        <fileset id="fileset4" name="Springmvc115" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/springmvc115.xml</file>
+        </fileset>
+      </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
