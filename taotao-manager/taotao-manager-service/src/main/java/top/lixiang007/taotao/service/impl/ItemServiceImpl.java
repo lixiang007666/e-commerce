@@ -55,6 +55,13 @@ public class ItemServiceImpl implements ItemService {
         return easyUIDataGridResult;
     }
 
+    /**
+     * @Author Xiang Li
+     * @Date 2021/8/25 下午8:39
+     * @Since version-1.0
+     * @青软实训 添加商品 和图像上传有关系 泪目了
+     */
+
     @Override
     public TaotaoResult createItem(TbItem item, String desc, String itemParam) {
         // 生成商品ID

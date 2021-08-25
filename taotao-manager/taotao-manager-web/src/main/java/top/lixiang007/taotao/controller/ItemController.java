@@ -35,6 +35,12 @@ public class ItemController {
     public EasyUIDataGridResult getItemList(Integer page, Integer rows) {
         return itemService.getItemList(page, rows);
     }
+    /**
+     * @Author Xiang Li
+     * @Date 2021/8/25 下午8:41
+     * @Since version-1.0
+     * @青软实训 /item/save 添加商品 controller
+     */
 
     @RequestMapping(value = "/save", method = RequestMethod.POST)
     @ResponseBody

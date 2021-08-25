@@ -15,6 +15,11 @@
     <context:component-scan base-package="top.lixiang007.taotao.controller"></context:component-scan>
     <!-- 配置注解驱动 -->
     <mvc:annotation-driven/>
+    <!--放行静态资源请求-->
+    <mvc:default-servlet-handler/>
+
+
+
     <!-- 视图解析器 -->
     <bean
             class="org.springframework.web.servlet.view.InternalResourceViewResolver">
@@ -34,6 +39,7 @@
         <!-- 设定文件上传的最大值5MB，5*1024*1024 -->
         <property name="maxUploadSize" value="5242880"></property>
     </bean>
+
 
 
 </beans>
