@@ -82,6 +82,12 @@ public class ItemServiceImpl implements ItemService {
         tbItemDesc.setCreated(date);
         tbItemDesc.setUpdated(date);
         tbItemDescMapper.insert(tbItemDesc);
+/**
+ * @Author Xiang Li
+ * @Date 2021/8/27 上午10:34
+ * @Since version-1.0
+ * @青软实训 添加规格参数
+ */
 
         TbItemParamItem tbItemParamItem = new TbItemParamItem();
         tbItemParamItem.setItemId(itemId);
