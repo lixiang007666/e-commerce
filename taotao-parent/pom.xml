@@ -7,7 +7,7 @@
   <groupId>top.lixiang007</groupId>
   <artifactId>taotao-parent</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <dependencies>
+    <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>

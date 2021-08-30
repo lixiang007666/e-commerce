@@ -2,11 +2,13 @@
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbUser.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbOrderShipping.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbItemDesc.java
+/Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbItemExample.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbItemParam.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbOrderItem.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbItem.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbItemParamAndName.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbContentCategory.java
+/Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbItemCatExample.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbItemParamItem.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/taotao/pojo/TbItemParamItemExample.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-manager/taotao-manager-pojo/src/main/java/top/lixiang007/App.java
