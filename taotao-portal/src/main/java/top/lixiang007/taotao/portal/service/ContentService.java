@@ -1,17 +1,16 @@
 package top.lixiang007.taotao.portal.service;
-
-import top.lixiang007.taotao.pojo.TbContent;
-
-import java.util.List;
-
 /**
  * @Author Xiang Li
- * @Date 2021/8/30 上午10:16
+ * @Date 2021/8/31 上午10:26
  * @Since version-1.0
- * @青软实训  首页
+ * @青软实训
  */
 
 public interface ContentService {
 
-	List<TbContent> getContentList(long categoryId);
+    /**
+     * 获得大广告位的内容
+     * @return
+     */
+    String getAdList();
 }
