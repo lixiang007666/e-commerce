@@ -34,6 +34,13 @@ public class ContentServiceImpl115 implements ContentService115 {
     @Override
     public List<TbContent> getContentList(Long cid) {
         // 添加缓存
+        /**
+         * @Author Xiang Li
+         * @Date 2021/9/1 上午9:15
+         * @Since version-1.0
+         * @青软实训 当缓存中没有依然查询数据库
+         */
+
         // 查询数据库之前先查询缓存，如果有直接返回
         try {
             //从redis中取缓存数据

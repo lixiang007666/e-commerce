@@ -8,6 +8,13 @@ import top.lixiang007.taotao.rest.component.JedisClient;
 /**
  * redis客户端集群版实现类
  */
+/**
+ * @Author Xiang Li
+ * @Date 2021/9/1 上午9:22
+ * @Since version-1.0
+ * @青软实训
+ */
+
 public class JedisClientCluster implements JedisClient {
 
     @Autowired

@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:32 +0800] "GET /css/taotao.css HTTP/1.1" 200 102733 http-bio-8082-exec-4 9
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:32 +0800] "GET /js/base-v1.js HTTP/1.1" 200 10394 http-bio-8082-exec-5 3
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:32 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 200 6060 http-bio-8082-exec-7 2
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:32 +0800] "GET /images/5440ce68Na00d019e.jpg HTTP/1.1" 200 10107 http-bio-8082-exec-8 3
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:32 +0800] "GET / HTTP/1.1" 200 110139 http-bio-8082-exec-3 10125
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:33 +0800] "GET /images/virtuals-20140606.png HTTP/1.1" 200 3316 http-bio-8082-exec-10 3
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:33 +0800] "GET /images/20130330A_2.png HTTP/1.1" 200 8252 http-bio-8082-exec-10 2
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:33 +0800] "GET /images/20130330B_1.png HTTP/1.1" 200 4620 http-bio-8082-exec-10 2
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:33 +0800] "GET /images/20130330C.png HTTP/1.1" 200 6900 http-bio-8082-exec-9 1
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:33 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 200 92007 http-bio-8082-exec-9 2
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:33 +0800] "GET /js/lib-v1.js HTTP/1.1" 200 121250 http-bio-8082-exec-9 3
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:33 +0800] "GET /js/home.js HTTP/1.1" 200 49781 http-bio-8082-exec-9 2
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:34 +0800] "GET /images/543b4d75N686689d7.jpg HTTP/1.1" 200 10963 http-bio-8082-exec-9 2
+0:0:0:0:0:0:0:1 - - [01/Sep/2021:12:26:35 +0800] "GET /images/index-jd-wx-qrcode.png HTTP/1.1" 200 5611 http-bio-8082-exec-9 5
