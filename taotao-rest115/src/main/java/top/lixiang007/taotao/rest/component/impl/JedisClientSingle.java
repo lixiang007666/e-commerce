@@ -20,7 +20,19 @@ public class JedisClientSingle implements JedisClient {
 
     private Jedis getJedisResource(JedisPool jedisPool) {
         Jedis jedis = jedisPool.getResource();
-        jedis.auth(REDIS_PASSWORD);
+        /**
+         * @Author Xiang Li
+         * @Date 2021/9/2 下午4:30
+         * @Since version-1.0
+         * @青软实训
+         * 1、指定配置文件 $: ./redis-server /usr/local/redis.conf
+         *
+         * 2、不指定配置：$: ./redis-server &
+         *
+         * 不指定配置文件启动时采用默认配置，无密码
+         */
+
+        //jedis.auth(REDIS_PASSWORD);
         return jedis;
     }
 
