@@ -257,13 +257,13 @@
   </update>
   <select id="getItemCatByParentId" parameterType="java.lang.Long" resultMap="BaseResultMap">
         SELECT *
-        FROM tb_item_cat
+        FROM tb_item_cat115
         WHERE parent_id = #{parentId, jdbcType=BIGINT}
     </select>
 
   <select id="getItemCatNameById" parameterType="java.lang.Long" resultType="java.lang.String">
         SELECT name
-        FROM tb_item_cat
+        FROM tb_item_cat115
         WHERE id = #{id}
     </select>
 </mapper>

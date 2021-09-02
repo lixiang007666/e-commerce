@@ -1,5 +1,10 @@
+/Users/lixiang/IdeaProjects/e_commerce/taotao-portal/src/main/java/top/lixiang007/taotao/portal/pojo/SearchResult.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-portal/src/main/java/top/lixiang007/taotao/portal/controller/IndexController.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-portal/src/main/java/top/lixiang007/taotao/portal/service/impl/ContentServiceImpl.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-portal/src/main/java/top/lixiang007/taotao/portal/service/ContentService.java
+/Users/lixiang/IdeaProjects/e_commerce/taotao-portal/src/main/java/top/lixiang007/taotao/portal/pojo/SearchItem.java
+/Users/lixiang/IdeaProjects/e_commerce/taotao-portal/src/main/java/top/lixiang007/taotao/portal/controller/SearchController.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-portal/src/main/java/top/lixiang007/taotao/portal/pojo/AdNode.java
 /Users/lixiang/IdeaProjects/e_commerce/taotao-portal/src/main/java/top/lixiang007/MyPortlet.java
+/Users/lixiang/IdeaProjects/e_commerce/taotao-portal/src/main/java/top/lixiang007/taotao/portal/service/impl/SearchServiceImpl.java
+/Users/lixiang/IdeaProjects/e_commerce/taotao-portal/src/main/java/top/lixiang007/taotao/portal/service/SearchService.java

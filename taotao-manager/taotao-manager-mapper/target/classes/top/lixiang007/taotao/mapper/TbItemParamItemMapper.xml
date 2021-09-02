@@ -248,4 +248,7 @@
       updated = #{updated,jdbcType=TIMESTAMP}
     where id = #{id,jdbcType=BIGINT}
   </update>
+  <select id="selectItemParamByItemId" parameterType="java.lang.Long" resultMap="BaseResultMap">
+        SELECT * FROM tb_item_param_item115 WHERE item_id = #{itemId}
+    </select>
 </mapper>

@@ -34,4 +34,5 @@ public interface TbItemParamItemMapper {
     int updateByPrimaryKeyWithBLOBs(TbItemParamItem record);
 
     int updateByPrimaryKey(TbItemParamItem record);
+    TbItemParamItem selectItemParamByItemId(Long itemId);
 }

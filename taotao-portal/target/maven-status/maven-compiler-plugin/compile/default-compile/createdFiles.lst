@@ -1,5 +1,10 @@
+top/lixiang007/taotao/portal/pojo/SearchResult.class
+top/lixiang007/taotao/portal/pojo/AdNode.class
+top/lixiang007/taotao/portal/service/SearchService.class
+top/lixiang007/taotao/portal/controller/SearchController.class
+top/lixiang007/taotao/portal/service/impl/SearchServiceImpl.class
 top/lixiang007/MyPortlet.class
 top/lixiang007/taotao/portal/service/ContentService.class
-top/lixiang007/taotao/portal/pojo/AdNode.class
+top/lixiang007/taotao/portal/pojo/SearchItem.class
 top/lixiang007/taotao/portal/controller/IndexController.class
 top/lixiang007/taotao/portal/service/impl/ContentServiceImpl.class
