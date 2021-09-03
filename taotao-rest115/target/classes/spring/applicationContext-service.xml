@@ -87,7 +87,7 @@
 <!--        <constructor-arg name="poolConfig" ref="jedisPoolConfig"/>-->
 <!--    </bean>-->
 
-<!--    <bean id="jedisClientCluster" class="guo.ping.taotao.rest.component.impl.JedisClientCluster"/>-->
+<!--    <bean id="jedisClientCluster" class="top.lixiang007.taotao.rest.component.impl.JedisClientCluster"/>-->
 <!--    &lt;!&ndash; end &ndash;&gt;-->
 
 </beans>

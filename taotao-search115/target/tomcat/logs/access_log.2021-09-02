@@ -1,6 +1,0 @@
-127.0.0.1 - - [02/Sep/2021:16:02:44 +0800] "GET /search/q?page=1&keyword=apple&rows=60 HTTP/1.1" 200 24934 http-bio-8083-exec-1 513
-127.0.0.1 - - [02/Sep/2021:16:02:55 +0800] "GET /search/q?page=1&keyword=%E7%9B%AE%E6%A0%87&rows=60 HTTP/1.1" 200 360 http-bio-8083-exec-3 21
-127.0.0.1 - - [02/Sep/2021:16:14:30 +0800] "GET /search/q?page=1&keyword=%E7%9B%AE%E6%A0%87&rows=60 HTTP/1.1" 200 360 http-bio-8083-exec-5 30
-127.0.0.1 - - [02/Sep/2021:16:31:45 +0800] "GET /search/q?page=1&keyword=%E7%9B%AE%E6%A0%87&rows=60 HTTP/1.1" 200 360 http-bio-8083-exec-7 20
-127.0.0.1 - - [02/Sep/2021:16:32:02 +0800] "GET /search/q?page=1&keyword=%E7%9B%AE%E6%A0%87&rows=60 HTTP/1.1" 200 360 http-bio-8083-exec-9 11
-127.0.0.1 - - [02/Sep/2021:16:47:05 +0800] "GET /search/q?page=1&keyword=%E7%9B%AE%E6%A0%87&rows=60 HTTP/1.1" 200 360 http-bio-8083-exec-1 66

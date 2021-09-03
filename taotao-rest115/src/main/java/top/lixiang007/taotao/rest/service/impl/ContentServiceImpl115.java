@@ -38,19 +38,19 @@ public class ContentServiceImpl115 implements ContentService115 {
          * @Author Xiang Li
          * @Date 2021/9/1 上午9:15
          * @Since version-1.0
-         * @青软实训 当缓存中没有依然查询数据库
+         * @青软实训 当缓存中没有依然查询数据库  大广告位查询服务器redis和图像服务器我用的不是一个 注释掉 直接不查了 李响yyds
          */
 
-        // 查询数据库之前先查询缓存，如果有直接返回
-        try {
-            //从redis中取缓存数据
-            String json = jedisClient.hget(REDIS_CONTENT_KEY, cid + "");
-            if (!StringUtils.isBlank(json)) {
-                return JsonUtils.jsonToList(json, TbContent.class);
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+//        // 查询数据库之前先查询缓存，如果有直接返回
+//        try {
+//            //从redis中取缓存数据
+//            String json = jedisClient.hget(REDIS_CONTENT_KEY, cid + "");
+//            if (!StringUtils.isBlank(json)) {
+//                return JsonUtils.jsonToList(json, TbContent.class);
+//            }
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
 
         List<TbContent> tbContentList = tbContentMapper.getContentListByCategoryId(cid);
 

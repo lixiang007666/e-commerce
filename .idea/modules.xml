@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/taotao-portal/taotao-portal.iml" filepath="$PROJECT_DIR$/taotao-portal/taotao-portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/taotao-rest115/taotao-rest115.iml" filepath="$PROJECT_DIR$/taotao-rest115/taotao-rest115.iml" />
       <module fileurl="file://$PROJECT_DIR$/taotao-search115/taotao-search115.iml" filepath="$PROJECT_DIR$/taotao-search115/taotao-search115.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taotao-sso115/taotao-sso115.iml" filepath="$PROJECT_DIR$/taotao-sso115/taotao-sso115.iml" />
     </modules>
   </component>
 </project>
