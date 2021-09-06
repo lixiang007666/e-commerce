@@ -98,14 +98,25 @@ public class LoginServiceImpl115 implements LoginService115 {
      * @param token
      * @return
      */
+    /**
+     * @Author Xiang Li
+     * @Date 2021/9/6 上午9:18
+     * @Since version-1.0
+     * @青软实训
+     */
+    
     @Override
     public TaotaoResult logout(String token, HttpServletRequest request, HttpServletResponse response) {
-        Long result = jedisClient.del(REDIS_SESSION_KEY + ":" + token);
+
+//        Long result = jedisClient.del(REDIS_SESSION_KEY + ":" + token);
+//        CookieUtils.deleteCookie(request, response, "TT_TOKEN");
+//        if (result > 0) {
+//            return TaotaoResult.ok("退出成功");
+//        } else {
+//            return TaotaoResult.ok("用户未登录");
+//        }
+
         CookieUtils.deleteCookie(request, response, "TT_TOKEN");
-        if (result > 0) {
-            return TaotaoResult.ok("退出成功");
-        } else {
-            return TaotaoResult.ok("用户未登录");
-        }
+        return TaotaoResult.ok("退出成功");
     }
 }

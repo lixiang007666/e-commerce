@@ -61,6 +61,12 @@ public class LoginController115 {
             return TaotaoResult.build(500, ExceptionUtil.getStackTrace(e));
         }
     }
+/**
+ * @Author Xiang Li
+ * @Date 2021/9/6 上午10:07
+ * @Since version-1.0
+ * @青软实训 taotao.js????????
+ */
 
     @RequestMapping("/logout/{token}")
     @ResponseBody

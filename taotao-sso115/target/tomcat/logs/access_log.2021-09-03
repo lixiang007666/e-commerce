@@ -1,6 +1,0 @@
-0:0:0:0:0:0:0:1 - - [03/Sep/2021:10:19:48 +0800] "GET /page/login HTTP/1.1" 200 3899 http-bio-8084-exec-1 1835
-0:0:0:0:0:0:0:1 - - [03/Sep/2021:10:19:52 +0800] "POST /user/login HTTP/1.1" 200 82 http-bio-8084-exec-3 1184
-0:0:0:0:0:0:0:1 - - [03/Sep/2021:10:19:54 +0800] "GET /user/token/d40900d4-e9e1-43db-9ff5-e8bc24947ba6?callback=jQuery8118004&_=1630635594097 HTTP/1.1" 200 201 http-bio-8084-exec-4 172
-0:0:0:0:0:0:0:1 - - [03/Sep/2021:10:20:21 +0800] "GET /page/register HTTP/1.1" 200 8734 http-bio-8084-exec-5 159
-0:0:0:0:0:0:0:1 - - [03/Sep/2021:10:20:40 +0800] "GET /user/token/d40900d4-e9e1-43db-9ff5-e8bc24947ba6?callback=jQuery3936826&_=1630635640095 HTTP/1.1" 200 201 http-bio-8084-exec-6 36
-0:0:0:0:0:0:0:1 - - [03/Sep/2021:10:28:45 +0800] "GET /user/token/d40900d4-e9e1-43db-9ff5-e8bc24947ba6?callback=jQuery8679268&_=1630636125446 HTTP/1.1" 200 201 http-bio-8084-exec-8 38
