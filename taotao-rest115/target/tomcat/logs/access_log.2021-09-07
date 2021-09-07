@@ -40,3 +40,5 @@
 127.0.0.1 - - [07/Sep/2021:11:21:13 +0800] "GET /rest/item/param/163098442071637 HTTP/1.1" 200 143 http-bio-8081-exec-9 3
 127.0.0.1 - - [07/Sep/2021:11:25:17 +0800] "GET /rest/item/base/163098442071637 HTTP/1.1" 200 340 http-bio-8081-exec-1 17
 127.0.0.1 - - [07/Sep/2021:11:25:19 +0800] "GET /rest/item/desc/163098442071637 HTTP/1.1" 200 802 http-bio-8081-exec-4 6
+127.0.0.1 - - [07/Sep/2021:11:55:27 +0800] "GET /rest/content/89 HTTP/1.1" 200 1032 http-bio-8081-exec-6 19
+127.0.0.1 - - [07/Sep/2021:12:15:32 +0800] "GET /rest/content/89 HTTP/1.1" 200 1032 http-bio-8081-exec-8 16
