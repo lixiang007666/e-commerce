@@ -22,7 +22,7 @@ import java.util.List;
  * @Author Xiang Li
  * @Date 2021/9/6 上午9:35
  * @Since version-1.0
- * @青软实训
+ * @青软实训 不登录也可以访问购物车 添加购物车信息存储到cookie中后 用户进行登录既可以看到购物车信息
  */
 
 @Controller

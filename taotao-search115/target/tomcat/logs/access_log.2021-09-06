@@ -1,6 +1,0 @@
-127.0.0.1 - - [06/Sep/2021:08:59:32 +0800] "GET /search/q?page=1&keyword=%E7%9B%AE%E6%A0%87&rows=60 HTTP/1.1" 200 6250 http-bio-8083-exec-1 449
-127.0.0.1 - - [06/Sep/2021:09:00:18 +0800] "GET /search/q?page=1&keyword=%E7%9B%AE%E6%A0%87&rows=60 HTTP/1.1" 200 360 http-bio-8083-exec-3 99
-127.0.0.1 - - [06/Sep/2021:09:23:47 +0800] "GET /search/q?page=1&keyword=%E7%9B%AE%E6%A0%87&rows=60 HTTP/1.1" 200 360 http-bio-8083-exec-5 15
-127.0.0.1 - - [06/Sep/2021:09:36:52 +0800] "GET /search/q?page=1&keyword=%E7%9B%AE%E6%A0%87&rows=60 HTTP/1.1" 200 360 http-bio-8083-exec-7 23
-127.0.0.1 - - [06/Sep/2021:10:02:44 +0800] "GET /search/q?page=1&keyword=%E7%9B%AE%E6%A0%87&rows=60 HTTP/1.1" 200 360 http-bio-8083-exec-9 39
-127.0.0.1 - - [06/Sep/2021:10:03:26 +0800] "GET /search/q?page=1&keyword=%E6%89%8B%E6%9C%BA&rows=60 HTTP/1.1" 200 24285 http-bio-8083-exec-1 201
