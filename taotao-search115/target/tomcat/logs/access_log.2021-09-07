@@ -1,3 +1,0 @@
-0:0:0:0:0:0:0:1 - - [07/Sep/2021:11:19:48 +0800] "GET /search/import_all_items HTTP/1.1" 200 48 http-bio-8083-exec-1 43689
-127.0.0.1 - - [07/Sep/2021:11:20:00 +0800] "GET /search/q?page=1&keyword=pytoch&rows=60 HTTP/1.1" 200 105 http-bio-8083-exec-4 43
-127.0.0.1 - - [07/Sep/2021:11:20:03 +0800] "GET /search/q?page=1&keyword=pytorch&rows=60 HTTP/1.1" 200 393 http-bio-8083-exec-6 13
